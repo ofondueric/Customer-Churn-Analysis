@@ -53,13 +53,13 @@ Built interactive Power BI dashboards for stakeholder reporting.
 
 ## Dashboard Screenshots
 
-### Executive Dashboard
+![](images/page1.JPG)
 
-### Branch Performance Dashboard
+![](images/page2.JPG)
 
-### Customer Segmentation Dashboard
+![](images/page3.JPG)
 
-### Risk Analysis Dashboard
+![](images/page4.JPG)
 
 ## Key Findings
 
